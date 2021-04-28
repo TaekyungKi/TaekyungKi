@@ -1,3 +1,3 @@
 - Interested in mathematical analysis of deep learning, computer vision.
 - A.I. engineer at Jenti.ai.
-- Current research area: Text detection & Text recognition, Medical imaging
+- Current research area: Text detection & recognition, Medical imaging
