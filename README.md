@@ -1,3 +1,3 @@
 - Interested in mathematical analysis of deep learning, computer vision
 - A.I. researcher at Jenti
-- Current research area: Computer Vision
+- Current research area: Computer Vision 
