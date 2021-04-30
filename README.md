@@ -7,4 +7,5 @@
 - Currently, I'm interested in text detection and pose estimation
 
 
-github-readme-stats.vercel.app/api?username=TaekyungKi&show_icons=true
+![TaekyungKi's github stats](https://github-readme-stats.vercel.app/api?username=TaekyungKi&show_icons=true)
+
