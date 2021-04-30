@@ -5,3 +5,6 @@
 - A.I. researcher at Jenti.ai
 - E-mail: tkki@jenti.ai
 - Currently, I'm interested in text detection and pose estimation
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
