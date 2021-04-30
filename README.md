@@ -1,4 +1,4 @@
-### Taekyung Ki
+## Taekyung Ki
 
 - Recieved B.S. and M.S. in Mathematics
 - Interested in Mathematics, Deep learning and Computer vision
@@ -7,5 +7,4 @@
 - Currently, I'm interested in text detection and pose estimation
 
 
-![TaekyungKi's github stats](https://github-readme-stats.vercel.app/api?username=TaekyungKi&show_icons=true)
-
+[![Taekyung Ki's github stats](https://github-readme-stats.vercel.app/api?username=TaekyungKi)](https://github.com/anuraghazra/github-readme-stats)
