@@ -3,4 +3,4 @@
 - Recieved B.S. and M.S. in Mathematics
 - Interested in Mathematics, Deep learning and Computer vision
 - A.I. researcher at [JENTI](http://jenti.ai/about-us/)
-- E-mail: tkki@jenti.ai
+- Contact: tkki@jenti.ai or key_@yonsei.ac.kr
