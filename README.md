@@ -2,5 +2,5 @@
 
 - Received B.S. and M.S. in mathematics
 - Interested in vision, generative model
-- Researcher at [AITRICS](https://www.aitrics.com)
-- Contact: tkki@aitrics.com
+- Researcher at [DeepBrainAI](https://www.deepbrain.io)
+- Contact: taek@deepbrain.io
