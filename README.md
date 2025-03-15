@@ -2,6 +2,5 @@
 
 - Received B.S. and M.S. in mathematics
 - Interested in generative models, vision.
-- Researcher (alternative military service) at [DeepBrainAI](https://www.deepbrain.io)
-- Page: https://taekyungki.github.io 
+- Researcher at MLAI, KAIST.
 - Contact: taekyung.ki@icloud.com (permanant)
